@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# zome
-=======
-<<<<<<< HEAD
-# zona
-=======
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# zona
+
 >>>>>>> f9a4a4ffc3b8565d7e8bbd32f107203d44bdccc7
->>>>>>> b80aca6 (zona)
->>>>>>> 212cffa (zome)
+>>>>>>> b80aca6 (amzon-clone)
+>>>>>>> 212cffa (amazo-clone)
