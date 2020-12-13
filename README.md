@@ -16,9 +16,8 @@ The App is called "amazon-clone" using reactjs, covers an entire e-commerce solu
 
 # Use It Locally
 
-```
-    
-    npm start 
+``` 
+  npm start 
 ```
 
 Runs the app in the development mode.\
