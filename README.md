@@ -8,7 +8,7 @@
 
 # About
 
-The App is called "amazon-clone" Amazon clone using reactjs covers an entire e-commerce solution: 
+The App is called "amazon-clone" using reactjs, covers an entire e-commerce solution: 
 
 -   from design, authentication to payment.
 
